@@ -1,0 +1,21 @@
+.haupt {
+    background-color: plum;
+    display: flex;
+    flex-direction: column;
+}
+.erstegross {
+    height: 500px;
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.ersteschwarz {
+    width: 800px;
+    height: 75%;
+    background-color: black;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
