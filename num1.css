@@ -19,3 +19,48 @@
     display: flex;
     justify-content: center;
 }
+.ersteweis {
+    width: 600px;
+    height: 75%;
+    background-color: white;
+    margin-top: 45px;
+}
+.zweitegross {
+    height: 400px;
+    background-color: gray;
+    display: flex;
+    justify-content: space-around; 
+}
+.a, .b, .c, .d {
+    flex: 1; 
+    margin: 0px; 
+    margin-top: 15px;
+}
+.a {
+    height: 370px;
+    background-color: red;
+    
+}
+.b{
+    background-color: orange;
+    height: 370px;
+}
+.c {
+    background-color: aqua;
+    height: 370px;
+}
+.d {
+    background-color: yellow;
+    height: 370px;
+}
+.drittegross {
+   height: 600px;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row;
+}
+.q .w .e {
+   
+    margin: 0%;
+    width: 100%;
+}
